@@ -13,4 +13,4 @@ This project is about compressing an XML file in server-side to increase the eff
 More info
 ---------
 
-I uploaded the full documentation here in Github somewhere you can check that was well if you need to. 
+I uploaded the full documentation here in Github wiki you can check that was well if you need to. 
