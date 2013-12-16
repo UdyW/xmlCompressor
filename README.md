@@ -10,6 +10,12 @@ What are these files
 Main class is the CompressV2.js and other files are basically for testing. i.e Simulating a server environment to send and receive requests.  
 This project is about compressing an XML file in server-side to increase the efficiency of the data transmission through web services.
 
+Pre-requirements
+----------------
+
+nodeJS & 
+libxmljs (npm install libxmljs)
+
 More info
 ---------
 
