@@ -1,5 +1,5 @@
 var querystring = require("querystring");
-var compressor = require("./Compressor");
+var compressor = require("./Compressor.js");
 function start(response, postData) {
   console.log("Request handler 'start' was called.");
 
