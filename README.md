@@ -1,3 +1,9 @@
+What it is
+----------
+A light-weight javascript tool to compress xml files on Serverside with out effecting its functionality or the readability.
+This tool will replace the Metatags in a XML file with simple charactors and will store those metatags data within itself so that the readability won't be effected.
+This is a very effective method for large XML file transformation.
+
 Started as
 ----------
 
