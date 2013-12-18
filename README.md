@@ -22,6 +22,11 @@ Pre-requirements
 1.  nodeJS
 2.  libxmljs ( <code>npm install libxmljs</code>)
 
+Licences
+--------
+
+Do wtf you want.
+
 More info
 ---------
 
