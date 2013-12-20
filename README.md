@@ -27,6 +27,11 @@ Licences
 
 Do wtf you want.
 
+To-Do
+-----
+
+* Implement the de-compression function
+
 More info
 ---------
 
